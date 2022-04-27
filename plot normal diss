@@ -1,3 +1,4 @@
+##Plot Normal diss
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.linspace(1,50,200)
