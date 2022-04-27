@@ -1,3 +1,4 @@
+####ANOVA 1 Way
 import math
 data = [[8,10,7,14,11],[7,5,10,9,9],[12,9,13,12,14]]
 n = len(data)
