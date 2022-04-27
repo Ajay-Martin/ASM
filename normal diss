@@ -1,3 +1,4 @@
+#########3Normal Diss
 import numpy as np
 import matplotlib.pyplot as plt
  # Creating a series of data of in range of 1-50.
